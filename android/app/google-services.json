@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293289978501",
+    "firebase_url": "https://kyc-app-788f8.firebaseio.com",
+    "project_id": "kyc-app-788f8",
+    "storage_bucket": "kyc-app-788f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293289978501:android:27d044ff85e0a17c6fd7ec",
+        "android_client_info": {
+          "package_name": "com.yeshdevelopers.seyi_kyc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293289978501-pje4q0q6eqhi8r2oj79e9t5mlgssnajt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlj1oFRy4D5P8z6yVZpM6muZNGH0PDQFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293289978501-pje4q0q6eqhi8r2oj79e9t5mlgssnajt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
